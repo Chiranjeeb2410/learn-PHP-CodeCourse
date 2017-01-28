@@ -1,0 +1,3 @@
+<?php
+
+echo "<a href=\"http://www.google.com\">go to google</a>";
