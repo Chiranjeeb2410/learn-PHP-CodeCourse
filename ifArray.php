@@ -14,9 +14,10 @@ $daysOfWeek = [
 
 ];
 
-var_dump(array_keys($daysOfWeek));
+//var_dump(array_keys($daysOfWeek));
+//
 
-/*if (in_array($dayOfWeek, array_keys($daysOfWeek)))	{
+if (in_array($dayOfWeek, array_keys($daysOfWeek)))	{
 
 	echo $daysOfWeek[$dayOfWeek];
 
