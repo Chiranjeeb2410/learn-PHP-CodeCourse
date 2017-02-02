@@ -1,7 +1,7 @@
 <?php
 
 $names = ['Arjun','Kabir','Imraan'];
-$names[] = 'Josh';
+$names[] = 'Josh';	
 
 var_dump($names);
 
